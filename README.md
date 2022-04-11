@@ -1,1 +1,1 @@
-[Netlify Link ](https://bilal-stock-app.netlify.app/stocks)
+[Netlify Link ](https://bilal-stock-app.netlify.app)
